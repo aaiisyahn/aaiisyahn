@@ -1,4 +1,4 @@
-# Hi everyone!
+# Hi, you've reached Aisyah's Git!
 
 Let me introduce myself, my name is **Siti Aisyah Nur Alim**.  
 I am a 3rd-year student majoring in Information Systems at Universitas Pembangunan Nasional Veteran Jakarta.  
