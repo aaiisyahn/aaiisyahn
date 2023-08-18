@@ -3,11 +3,44 @@
 Let me introduce myself, my name is **Siti Aisyah Nur Alim**.  
 I am a 3rd-year student majoring in Information Systems at Universitas Pembangunan Nasional Veteran Jakarta.  
 I am highly enthusiastic about **website & mobile app development,** and also **project management.**  
-For more information, please feel free to follow my [Linkedin](https://www.linkedin.com/in/aisyahna/) account.
 
+## Tools
+<div align="center">
+    <a href="https://code.visualstudio.com/" target="blank">
+    <img alt="Visual Studio" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+  </a>
+<a href="https://www.google.com/search?q=Android+Studio" target="_blank">
+  <img alt="Android Studio" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
+</a>
+</div>
+<br />
+
+## Language and Frameworks
+<div align="center">
+
+[<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
+[<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
+[<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
+[<img alt="Javascript" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
+[<img alt="MySQL" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
+[<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
+[<img alt="Ubuntu" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />](https://www.google.com/search?&q=Ubuntu)
 <p align="left">
+</div>
+
+  ## Find me on
+  <div align="center">
+<p>
+  <a href="mailto:aaiisyahn@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="5%"/></a>
+  <a href="https://www.linkedin.com/in/aisyahna"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"  width="5%"/></a>
+</p>
+  </div>
+
+  ## Stats
 <a href="https://github.com/aaiisyahn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaiisyahn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaiisyahn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
