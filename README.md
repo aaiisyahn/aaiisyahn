@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/header.png/>
+    <img src="img/header.png" width="680px"/>
 </p>
 
 # Hi, you've reached Aisyah's Git!
