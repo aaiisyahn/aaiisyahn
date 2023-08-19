@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="img/header.png/>
+</p>
+
 # Hi, you've reached Aisyah's Git!
 
 Let me introduce myself, my name is **Siti Aisyah Nur Alim**.  
