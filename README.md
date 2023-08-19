@@ -40,9 +40,10 @@ I am highly enthusiastic about **website & mobile app development,** and also **
   </div>
 
   ## Stats
-<a href="https://github.com/aaiisyahn">
+
+<a href="https://github.com/aaiisyahn">    
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaiisyahn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaiisyahn&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaiisyahn&theme=dark&show_icons=true&layout=compact&langs_count=7"/>
 </a>
 </p>
 
