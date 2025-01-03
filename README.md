@@ -6,7 +6,7 @@
 
 Let me introduce myself, my name is **Siti Aisyah Nur Alim**.  
 I am a 4rd-year student majoring in Information Systems at Universitas Pembangunan Nasional Veteran Jakarta.  
-I am highly enthusiastic about **system analysis,** **mobile app development,** and also **project management.**  
+I am highly enthusiastic about **system analysis,** **website and mobile app development,** as well as **project management.**  
 
 ## Tools
 <div align="center">
